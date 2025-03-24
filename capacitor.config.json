@@ -1,5 +1,6 @@
 {
-  "appId": "com.hoangkimtoan.22itse2b",
-  "appName": "Temperature transfer",
-  "webDir": "dist"
+  "appId": "com.bim.22se2b",
+  "appName": "BMI Calculator",
+  "webDir": "dist",
+  "bundledWebRuntime": false
 }

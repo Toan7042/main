@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Temperature Transfer</string>
-    <string name="title_activity_main">Temperature Transfer</string>
-    <string name="package_name">com.hoangkimtoan.22se2b</string>
-    <string name="custom_url_scheme">com.hoangkimtoan.22se2b</string>
+    <string name="app_name">bim</string>
+    <string name="title_activity_main">bim</string>
+    <string name="package_name">com.bim.22se2b</string>
+    <string name="custom_url_scheme">com.bim.22se2b</string>
 </resources>

@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@capacitor/android": "^7.1.0",
-    "@capacitor/camera": "^7.0.0",
     "@capacitor/cli": "^7.1.0",
     "@capacitor/core": "^7.1.0",
     "@capacitor/geolocation": "^7.1.1",
@@ -18,7 +17,6 @@
     "@capacitor/share": "^7.0.0",
     "core-js": "^3.8.3",
     "express": "^4.21.2",
-    "qrcode": "^1.5.4",
     "vue": "^3.2.13"
   },
   "devDependencies": {

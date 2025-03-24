@@ -1,16 +1,18 @@
 <template>
   <div id="app">
-    <h1>Chuyển đổi nhiệt độ</h1>
-    <age-calculator />
+    <h1>Age Calculator</h1>
+    <b-m-i-calculator />
   </div>
 </template>
 
 <script>
-import AgeCalculator from './components/Temperaturetransfer.vue';
+import BMICalculator from './components/BMICalculator.vue';
+
+
 
 export default {
   components: {
-    AgeCalculator
+    BMICalculator
   }
 };
 </script>
